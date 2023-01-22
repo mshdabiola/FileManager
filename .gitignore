@@ -13,3 +13,5 @@
 .externalNativeBuild
 .cxx
 local.properties
+/core/designsystem/build/
+/feature/mainscreen/build/
